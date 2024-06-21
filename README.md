@@ -1,4 +1,4 @@
-# [:] Example Dotnet Project - scan 1
+# [:] Example Dotnet Project - scan 2
 
 An example dotnet project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
